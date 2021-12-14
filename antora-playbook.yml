@@ -1,6 +1,6 @@
 site:
   title: ThoughtSpot Documentation
-  url: https://docs-test.thoughtspot.netlify.app
+  url: https://docs-test-thoughtspot.netlify.app
   start_page: home::index.adoc
 content:
   sources:
@@ -11,9 +11,9 @@ content:
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     branches: ['6.0', '6.1', '6.2', '6.3', '7.0', '7.1']
     start_path: software/
-#  - url: git@github.com:thoughtspot/thoughtspot-docs.git
-#    branches: ['ts8.nov.cl']
-#    start_path: cloud/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    branches: ['ts8.nov.cl']
+    start_path: cloud/
 urls:
   latest_version_segment_strategy: redirect:to
   latest_version_segment: latest
