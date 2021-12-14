@@ -1,6 +1,6 @@
 site:
   title: ThoughtSpot Documentation
-  url: https://docs.thoughtspot.com
+  url: https://docs-test.thoughtspot.netlify.app
   start_page: home::index.adoc
 content:
   sources:
@@ -38,7 +38,7 @@ asciidoc:
   - "@djencks/asciidoctor-tabset-block"
 output:
   clean: true
-  dir: build
+  dir: build/
 runtime:
   fetch: true
   log:
