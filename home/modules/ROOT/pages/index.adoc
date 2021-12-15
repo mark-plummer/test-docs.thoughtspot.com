@@ -23,7 +23,7 @@ Choose the documentation you need from the following choices:
     </h2>
     <p>Use our fully managed SaaS solution where we handle the hard stuff and deliver you rapid innovations.</p>
     <ul>
-      <li><a href="https://docs-test-thoughtspot.netlify.app/cloud/latest">Go to Cloud docs</a></li>
+      <li><a href="https://docs-test-thoughtspot.netlify.app/cloud/">Go to Cloud docs</a></li>
     </ul>
     </div>
   <div class="box-home">
