@@ -12,7 +12,7 @@ content:
     branches: ['6.0', '6.1', '6.2', '6.3', '7.0', '7.1']
     start_path: software/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
-    branches: ['ts8.nov.cl']
+    branches: ['ts8.nov.cl', 'ts8.jan.cl']
     start_path: cloud/
 urls:
   latest_version_segment_strategy: redirect:to
