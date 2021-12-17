@@ -29,8 +29,8 @@ ui:
     snapshot: true
 asciidoc:
   attributes:
-    software: true
-    cloud: false
+    #software: true
+    #cloud: false
     tabs: tabs
     support-url: https://community.thoughtspot.com/s/login/?ec=302&startURL=%2Fcustomers%2Fs%2Fcontactsupport
   extensions:
