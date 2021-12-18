@@ -1,6 +1,10 @@
 = ThoughtSpot Documentation
 :page-layout: home
 
+ThoughtSpot empowers you to turn data into actionable insights.
+Whether you’re using the ThoughtSpot application, embedding
+insights into apps, or building entirely new data products.
+
 Choose the documentation you need from the following choices:
 [.conceal-title]
 == {empty}
