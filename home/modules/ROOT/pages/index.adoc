@@ -1,6 +1,7 @@
 = ThoughtSpot Documentation
 :page-layout: home
 
+== Welcome to the Modern Analytics Cloud
 ThoughtSpot empowers you to turn data into actionable insights.
 Whether you’re using the ThoughtSpot application, embedding
 insights into apps, or building entirely new data products.
