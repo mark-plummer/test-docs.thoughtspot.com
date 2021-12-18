@@ -36,7 +36,6 @@ Choose the documentation you need from the following choices:
       <li><a href="https://docs.thoughtspot.com/visual-embed-sdk/release/en/?pageid=introduction">Go to Developer docs</a></li>
     </ul>
     </div>
- </div>
  <div class="box-home">
    <img src="_images/just-logo-black-40px">
    <h2>
