@@ -37,7 +37,7 @@ Choose the documentation you need from the following choices:
     </ul>
     </div>
  <div class="box-home">
-   <img src="_images/just-logo-black-40px">
+   <img src="_images/just-logo-black-40px.png">
    <h2>
      SeekWell documentation
    </h2>
