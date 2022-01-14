@@ -13,7 +13,7 @@ Choose the documentation you need from the following choices:
 == {empty}
 ++++
 <div class="columns">
-  <div class="home">
+  <div class="box">
     <img src="_images/software.png">
     <h2>
       Software documentation
@@ -23,7 +23,7 @@ Choose the documentation you need from the following choices:
       <li><a href="https://docs-test-thoughtspot.netlify.app/software/latest">Go to Software docs</a></li>
     </ul>
     </div>
-  <div class="home">
+  <div class="box">
   <img src="_images/cloud.png">
     <h2>
       Cloud documentation
@@ -33,7 +33,7 @@ Choose the documentation you need from the following choices:
       <li><a href="https://docs-test-thoughtspot.netlify.app/cloud/latest">Go to Cloud docs</a></li>
     </ul>
     </div>
-  <div class="home">
+  <div class="box">
     <img src="_images/developer.png">
     <h2>
       Developer documentation
@@ -43,7 +43,7 @@ Choose the documentation you need from the following choices:
       <li><a href="https://docs.thoughtspot.com/visual-embed-sdk/release/en/?pageid=introduction">Go to Developer docs</a></li>
     </ul>
     </div>
- <div class="home">
+ <div class="box">
    <img src="_images/just-logo-black-40px.png">
    <h2>
      SeekWell documentation
