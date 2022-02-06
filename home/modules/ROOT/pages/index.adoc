@@ -1,14 +1,8 @@
-= ThoughtSpot Documentation
+= Welcome to ThoughtSpot Documentation
 :page-layout: home
 
 [.lead]
-**Welcome to the Modern Analytics Cloud**
-
-ThoughtSpot empowers you to turn data into actionable insights.
-Whether you’re using the ThoughtSpot application, embedding
-insights into apps, or building entirely new data products.
-
-Choose the documentation you need from the following choices:
+**Choose your documentation**
 [.conceal-title]
 == {empty}
 ++++
@@ -56,7 +50,7 @@ faster than ever.</p>
    </ul>
    </div>
 </div> -->
-<div class="columns">
+<div class="box-button-columns">
     <div class="box-button"><a href = "https://docs-test-thoughtspot.netlify.app/software/latest" class = "panel-2">
     <img src="_images/software.png" id="software-icon">
     <h2>
