@@ -2,7 +2,7 @@
 :page-layout: home
 
 [.lead]
-**Choose your documentation**
+**Choose your documentation:**
 [.conceal-title]
 == {empty}
 ++++
