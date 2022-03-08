@@ -255,7 +255,17 @@ b, dt, strong, th {
 == {empty}
 
 [.box-wide]
-=== What's new in ThoughtSpot cloud
+=== What's new in ThoughtSpot Cloud
+This is a test:
+
+- item 1
+- item 2
+- item 3
++
+xref:8.0.0.cl@cloud:answer-experience-new.adoc[New answer experience]
+
+[.box-wide]
+=== What's new in ThoughtSpot Software
 This is a test:
 
 - item 1
