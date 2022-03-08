@@ -33,18 +33,6 @@ b, dt, strong, th {
     font-size: .84444rem;
 }
 
-@media only screen and (min-width: 1216px)
-.box-wide-columns {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin: 0 auto;
-    width: 83%;
-}
-
-@media only screen and (min-width: 1024px)
 .box-wide-columns {
     display: -webkit-box;
     display: -ms-flexbox;
