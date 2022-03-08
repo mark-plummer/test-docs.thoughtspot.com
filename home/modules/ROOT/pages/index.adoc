@@ -33,6 +33,28 @@ b, dt, strong, th {
     font-size: .84444rem;
 }
 
+@media only screen and (min-width: 1216px)
+.box-wide-columns {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 83%;
+}
+
+@media only screen and (min-width: 1024px)
+.box-wide-columns {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 83%;
+}
+
 </style>
 ++++
 
@@ -120,7 +142,7 @@ faster than ever.</p>
 [.conceal-title]
 == {empty}
 ++++
-<div class="box-button-columns">
+<div class="box-wide-columns">
     <div class="box-wide">
     <p><div class="sect1">
 <h2 id="_whats_new_in_thoughtspot_cloud"><a class="anchor" href="#_whats_new_in_thoughtspot_cloud"></a>What&#8217;s new in ThoughtSpot Cloud</h2>
