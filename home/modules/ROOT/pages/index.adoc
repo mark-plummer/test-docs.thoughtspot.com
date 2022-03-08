@@ -20,12 +20,19 @@ h2#_whats_new_in_thoughtspot_cloud {
 }
 .dlist dt {
     font-style: normal !important;
-    font-weight: bold !important;
 }
 b, dt, strong, th {
     font-weight: 500;
-    font-size: medium;
+    font-size: .84444rem;
+    line-height: 1.6;
 }
+
+.home .box-wide p {
+    margin: medium;
+    color: #444;
+    font-size: .84444rem;
+}
+
 </style>
 ++++
 
