@@ -31,6 +31,7 @@ b, dt, strong, th {
     margin: medium;
     color: #444;
     font-size: .84444rem;
+    line-height: 1.6;
 }
 
 .box-wide-columns {
