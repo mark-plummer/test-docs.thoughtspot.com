@@ -36,6 +36,7 @@ b, dt, strong, th {
 .box-wide-columns {
     width: 82%;
     margin: 0 auto;
+    padding-right: 25px;
 }
 
 </style>
@@ -241,6 +242,7 @@ b, dt, strong, th {
 <dd>
 <p>For information about the new features and enhancements introduced in this release, refer to <a href="https://developers.thoughtspot.com/docs/?pageid=whats-new" target="_blank" rel="noopener">ThoughtSpot Developer Documentation</a>.</p>
 </dd>
+<br></br>
 </dl>
 </div>
 </div>
