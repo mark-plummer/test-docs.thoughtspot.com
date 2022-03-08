@@ -251,11 +251,11 @@ b, dt, strong, th {
     </a></div></div>
 ++++
 
-[.box-wide-columns]
-= {empty}
+[.box-wide-columns.conceal-title]
+== {empty}
 
 [.box-wide]
-== What's new in ThoughtSpot cloud
+=== What's new in ThoughtSpot cloud
 This is a test:
 - item 1
 - item 2
