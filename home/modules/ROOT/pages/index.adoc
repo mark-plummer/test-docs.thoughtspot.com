@@ -1,5 +1,4 @@
 = Welcome to ThoughtSpot Documentation
-:page-layout: home
 
 ++++
 <style>
@@ -35,7 +34,7 @@ b, dt, strong, th {
 }
 
 .box-wide-columns {
-    width: 50%;
+    width: 82%;
     margin: 0 auto;
     padding-right: 25px;
 }
@@ -273,3 +272,5 @@ This is a test:
 - item 3
 +
 xref:8.0.0.cl@cloud:answer-experience-new.adoc[New answer experience]
+
+include::partial$whats-new-8-1-0-cl.adoc[]
