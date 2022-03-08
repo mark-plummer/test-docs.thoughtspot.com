@@ -35,7 +35,7 @@ b, dt, strong, th {
 }
 
 .box-wide-columns {
-    width: 82%;
+    width: 50%;
     margin: 0 auto;
     padding-right: 25px;
 }
