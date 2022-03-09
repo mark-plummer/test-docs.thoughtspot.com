@@ -250,6 +250,92 @@ b, dt, strong, th {
 </div></p>
     </a></div></div>
 ++++
+++++
+<div class="box-wide-columns">
+    <div class="box-wide">
+<div class="sect1">
+<h2 id="_whats_new_in_thoughtspot_cloud"><a class="anchor" href="#_whats_new_in_thoughtspot_cloud"></a>What&#8217;s new in ThoughtSpot Cloud</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><span class="label label-dep">8.1.0.cl</span> March 2022</p>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Reset button for saved answers</dt>
+<dd>
+<p>With the <strong>reset</strong> button (to the right of the search bar,next to the <strong>undo</strong> and <strong>redo</strong> buttons) you can return a saved answer to its last saved state. Available only for saved answers in the <a href="https://docs.thoughtspot.com/cloud/latest/answer-experience-new" class="page">new answer experience</a>.</p>
+<div class="imageblock">
+<div class="content">
+<img src="_images/reset-button.gif" alt="Using reset">
+</div>
+</div>
+</dd>
+</dl>
+</div>
+<div id="chart-kpi-sparkline" class="dlist">
+<dl>
+<dt class="hdlist1">Sparkline visualization for KPI chart type</dt>
+<dd>
+<p>Create sparkline visualizations of your data’s Key Performance Indicators (KPIs) when searching for a measure using a time-related keyword, such as `Sales weekly'. See <a href="https://docs.thoughtspot.com/cloud/latest/chart-kpi#kpi-sparkline" class="page">Sparkline visualizations for time-series KPIs</a>.</p>
+</dd>
+</dl>
+</div>
+<div id="slack" class="dlist">
+<dl>
+<dt class="hdlist1">Slack integration</dt>
+<dd>
+<p>Push insights from a saved answer or Liveboard to your Slack workspace, and deliver data directly to your Slack users. See <a href="https://docs.thoughtspot.com/cloud/latest/push-data-to-slack" class="page">Push data to a Slack workspace</a>.</p>
+<div class="imageblock">
+<div class="content">
+<img src="_images/send-to-slack.png" alt="Send to Slack">
+</div>
+</div>
+</dd>
+</dl>
+</div>
+<div id="connections-oauth" class="dlist">
+<dl>
+<dt class="hdlist1">OAuth for Connections</dt>
+<dd>
+<p>ThoughtSpot support OAuth for the following connections:</p>
+<div id="connections-redshift-oauth" class="ulist">
+<ul>
+<li>
+<p>Amazon Redshift, see <a href="https://docs.thoughtspot.com/cloud/latest/connections-redshift-oauth" class="page">Configure OAuth for a Redshift connection</a>.</p>
+</li>
+<li>
+<p>Microsoft Azure Synapse, see <a href="https://docs.thoughtspot.com/cloud/latest/connections-synapse-oauth" class="page">Configure OAuth for an Azure Synapse connection</a>.</p>
+</li>
+</ul>
+</div>
+</dd>
+</dl>
+</div>
+<div id="aws-region-japan" class="dlist">
+<dl>
+<dt class="hdlist1">New Japan cloud region</dt>
+<dd>
+<p>ThoughtSpot Cloud is now available in Japan; see <a href="https://docs.thoughtspot.com/cloud/latest/ts-cloud-requirements-support" class="page">ThoughtSpot Cloud requirements and support</a>.</p>
+</dd>
+</dl>
+</div>
+<div id="encryption-at-rest" class="dlist">
+<dl>
+<dt class="hdlist1">Encryption at rest <span class="badge badge-update">Beta</span></dt>
+<dd>
+<p>ThoughtSpot provides advanced data encryption at rest (EAR) for granular user- and folder-level controls when encrypting your persistent data.</p>
+</dd>
+<dt class="hdlist1">ThoughtSpot Everywhere</dt>
+<dd>
+<p>For information about the new features and enhancements introduced in this release, refer to <a href="https://developers.thoughtspot.com/docs/?pageid=whats-new" target="_blank" rel="noopener">ThoughtSpot Developer Documentation</a>.</p>
+</dd>
+<br></br>
+</dl>
+</div>
+</div>
+</div></p>
+    </a></div></div>
+++++
 
 [.box-wide-columns.conceal-title]
 == {empty}
