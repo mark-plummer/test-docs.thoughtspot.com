@@ -18,9 +18,21 @@ h2#_whats_new_in_thoughtspot_cloud {
     font-weight: 450;
     font-size: larger;
 }
+
+h3#_previous_releases_cloud {
+    font-weight: 300;
+    font-size: medium;
+}
+
+h2#_p {
+    font-weight: 450;
+    font-size: larger;
+}
+
 .dlist dt {
     font-style: normal !important;
 }
+
 b, dt, strong, th {
     font-weight: 500;
     font-size: .84444rem;
@@ -254,7 +266,7 @@ b, dt, strong, th {
 <div class="box-wide-columns">
     <div class="box-wide">
 <div class="sect1">
-<!-- <h2 id="_whats_new_in_thoughtspot_cloud"><a class="anchor" href="#_whats_new_in_thoughtspot_cloud"></a>What&#8217;s new in ThoughtSpot Cloud</h2> -->
+<h3 id="_previous_releases"><a class="anchor" href="#_previous_releases_cloud"></a>Previous releases</h3>
 <div class="sectionbody">
 <div class="paragraph">
 <p><span class="label label-dep">8.1.0.cl</span> March 2022</p>
