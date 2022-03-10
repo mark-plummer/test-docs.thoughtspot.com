@@ -39,6 +39,17 @@ b, dt, strong, th {
     line-height: 1.6;
 }
 
+h4 {
+    font-weight: 500;
+    font-size: .84444rem;
+    line-height: 1.6;
+}
+
+h4#_p {
+    font-weight: 450;
+    font-size: larger;
+}
+
 .home .box-wide p {
     margin: medium;
     color: #444;
