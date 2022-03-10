@@ -30,7 +30,7 @@ ThoughtSpot now supports all versions of VMware Workspace One browser for the Th
 ThoughtSpot intelligently selects a data source for new users when they experience xref:8.0.0.cl@cloud:ROOT:search-data.adoc[Search Data] by choosing the most popular data source in the production cluster, enabling faster and easier insights.
 
 [#eureka-japanese]
-===== *Support for searching answers in Japanese* [.badge.badge-update]#Beta#::
+===== *Support for searching answers in Japanese* [.badge.badge-update]#Beta#
 ThoughtSpot now supports Search Answers in Japanese.
 
 [#vpn]
