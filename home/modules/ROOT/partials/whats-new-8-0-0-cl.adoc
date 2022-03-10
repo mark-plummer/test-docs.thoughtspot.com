@@ -1,17 +1,17 @@
 +++<span class="label label-dep">8.0.0.cl</span>+++ January 2022
 
-===== *Getting started with ThoughtSpot Cloud*
+==== *Getting started with ThoughtSpot Cloud*
 The first person on the account must complete a series of steps to enable others to use ThoughtSpot with your organization's data. See xref:8.0.0.cl@cloud:ROOT:ts-cloud-getting-started.adoc[Getting Started with ThoughtSpot Cloud].
 
 ===== *Liveboard schedule*
 The new *Schedule* feature combines the Liveboard follow and xref:8.0.0.cl@cloud:ROOT:liveboard-schedule.adoc[Liveboard Schedule] into a single action. Select the *Schedule* button to the left of the *More (...)* menu for a new schedule to receive emails with a pdf representation of your Liveboard.
-+
+
 Liveboard schedules that your team created in earlier releases of our product appear in the list of Liveboard schedules as _Migrated from follow (your display name)_.
 
 ===== *Search answers*
 Navigate to the *Search answers and Liveboards* page from the top navigation bar; see xref:8.0.0.cl@cloud:ROOT:search-answers.adoc#search-answers-navigate[Search answers].
-+
-image::8.0.0.cl@cloud:ROOT:search-answers-bar.png[Search across existing Answers]
+
+image::search-answers-bar.png[Search across existing Answers]
 
 [#chart-kpi]
 ===== *Key Performance Indicators (KPI) chart* [.badge.badge-update]#Beta#
