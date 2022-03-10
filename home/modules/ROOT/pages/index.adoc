@@ -250,7 +250,6 @@ b, dt, strong, th {
 </div></p>
     </a></div></div>
 ++++
-'''
 ++++
 <div class="box-wide-columns">
     <div class="box-wide">
