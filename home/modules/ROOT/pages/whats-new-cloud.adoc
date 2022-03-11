@@ -51,4 +51,4 @@ p {
 </style>
 ++++
 
-include::partial$whats-new-8-0-0-cl.adoc[]
+include::partial$whats-new-8-1-0-cl.adoc[]
