@@ -1,5 +1,6 @@
 = Welcome to ThoughtSpot Documentation
 :page-layout: home
+:glossary-tooltip: title
 
 ++++
 <style>
@@ -372,3 +373,10 @@ This is a test:
 - item 3
 +
 xref:8.0.0.cl@cloud:answer-experience-new.adoc[New answer experience]
+
+== The Glossary as an explicatory device
+
+We might drink glossterm:usquebaugh[a product of the Highlands] when solving bugs.
+
+This is a sentence with the term glossterm:negligible[not a whole lot] to be defined.
+This is a sentence with the term glossterm:likely[not apt to not occur] used appropriately.
