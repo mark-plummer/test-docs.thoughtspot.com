@@ -1,6 +1,6 @@
 = Welcome to ThoughtSpot Documentation
 :page-layout: home
-:glossary-tooltip: title
+:glossary-tooltip: true
 
 ++++
 <style>
