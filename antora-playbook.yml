@@ -36,6 +36,7 @@ asciidoc:
   extensions:
   - ./lib/asciidoctor-performance-patch.js
   - "@djencks/asciidoctor-tabset-block"
+  - "@djencks/asciidoctor-glossary"
 output:
   clean: true
   dir: build/
