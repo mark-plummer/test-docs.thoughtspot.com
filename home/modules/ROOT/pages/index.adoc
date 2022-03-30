@@ -380,4 +380,4 @@ We might drink glossterm:usquebaugh[a product of the Highlands] when solving bug
 This is a sentence with the term glossterm:negligible[not a whole lot] to be defined.
 This is a sentence with the term glossterm:likely[not apt to not occur] used appropriately.
 
-+++<a href="https://docs.thoughtspot.com/home/glossary.html" data-toggle="tooltip" data-placement="top" title="A Liveboard is a very cool way to do things">Liveboard</a>+++
++++<a href="https://docs-test-thoughtspot.netlify.app/home/glossary.html" data-toggle="tooltip" data-placement="top" title="A Liveboard is a very cool way to do things">Liveboard</a>+++
