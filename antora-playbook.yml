@@ -34,6 +34,8 @@ asciidoc:
   attributes:
     #software: true
     #cloud: false
+    page-company: ThoughtSpot
+    h2-toc: :page-toclevels: 1
     tabs: tabs
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
   extensions:
