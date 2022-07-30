@@ -15,7 +15,7 @@ content:
     branches: ['8.4.0.cl', '8.3.0.cl', '8.2.0.cl', '8.1.0.cl']
     start_path: cloud/
   - url: git@github.com:mark-plummer/thoughtspot-docs.git
-    branches: ['8.5.0.cl']
+    branches: ['8-5-0-cl-query-based-pricing']
     start_path: cloud/
   - url: git@github.com:thoughtspot/visual-embed-sdk.git
     branches: ['7.1.1-sw-docs', '7.2-sw-docs']
