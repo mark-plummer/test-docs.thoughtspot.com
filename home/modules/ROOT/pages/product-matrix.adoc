@@ -1,0 +1,69 @@
+= ThoughtSpot Software and Cloud Feature Comparison
+:page-layout: snippet
+
+|===
+| |ThoughtSpot Software |ThoughtSpot Cloud
+
+|Who installs and manages
+|Customer
+|ThoughtSpot
+
+|Falcon in-memory database
+|Yes
+|No
+
+|Cluster scale
+|Multi-node clusters
+|Single-node clusters#
+
+|Embrace CDW Connections
+|Yes
+|Yes
+
+|Search Data
+|Yes
+|Yes
+
+|SpotIQ Auto Analyze
+|Yes
+|Yes
+
+|Visualize (answers, Liveboards, follow and related functionalities)
+|Yes
+|Yes
+
+|Mobile app
+|Yes
+|Yes
+
+|Data workspace
+|Yes*
+|Yes
+
+|SpotApps
+|Yes**
+|Yes
+
+|KPI charts
+|Yes
+|Yes
+
+|Monitor
+|No
+|Yes
+
+|Eureka (search answers)
+|No
+|Yes
+
+|TSE (embedded)
+|No##
+|Yes
+
+|ThoughtSpot Sync (Seekwell Destinations)
+|No
+|Yes
+|===
+
+
+
