@@ -1,69 +1,94 @@
 = ThoughtSpot Software and Cloud Feature Comparison
 :page-layout: snippet
 
-|===
-| |ThoughtSpot Software |ThoughtSpot Cloud
++++
+<table width="90%" border="1" bordercolor="#4e55fd" style="border-collapse: collapse; border-radius: 5px" align="center" font-family="Optimo-Plain,sans-serif;">
+  <tbody>
+    <tr>
+      <th scope="col" width="44%" style="color:black;padding:10px;"></th>
+      <th scope="col" width="28%" style="color:white;padding:10px;font-family:Optimo-Plain,sans-serif;" bgcolor="#4e55fd" align="left">ThoughtSpot Software</th>
+      <th scope="col" width="28%" style="color:white;padding:10px;font-family:Optimo-Plain,sans-serif;" bgcolor="#06bf7f" align="left">ThoughtSpot Cloud</th>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Who installs and manages&nbsp;</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Customer</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">ThoughtSpot</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Falcon in-memory database&nbsp;</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Cluster scale&nbsp;</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Multi-node clusters</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Single-node clusters+</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Embrace CDW Connections</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Search Data</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">SpotIQ Auto Analyze&nbsp;</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Visualize <br>
+		  (answers, Liveboards, follow and related features)</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">&nbsp;Mobile app</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Data workspace</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes*</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">SpotApps</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes**</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">KPI charts&nbsp;</th>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Monitor</th>
+      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Eureka (search answers)</th>
+      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">TSE (embedded)&nbsp;</th>
+      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No++</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">ThoughtSpot Sync (Seekwell Destinations)&nbsp;</th>
+      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+    </tr>
+  </tbody>
+</table>
++++
 
-|Who installs and manages
-|Customer
-|ThoughtSpot
-
-|Falcon in-memory database
-|Yes
-|No
-
-|Cluster scale
-|Multi-node clusters
-|Single-node clusters#
-
-|Embrace CDW Connections
-|Yes
-|Yes
-
-|Search Data
-|Yes
-|Yes
-
-|SpotIQ Auto Analyze
-|Yes
-|Yes
-
-|Visualize (answers, Liveboards, follow and related functionalities)
-|Yes
-|Yes
-
-|Mobile app
-|Yes
-|Yes
-
-|Data workspace
-|Yes*
-|Yes
-
-|SpotApps
-|Yes**
-|Yes
-
-|KPI charts
-|Yes
-|Yes
-
-|Monitor
-|No
-|Yes
-
-|Eureka (search answers)
-|No
-|Yes
-
-|TSE (embedded)
-|No##
-|Yes
-
-|ThoughtSpot Sync (Seekwell Destinations)
-|No
-|Yes
-|===
 
 
 
