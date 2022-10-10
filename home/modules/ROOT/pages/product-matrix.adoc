@@ -2,6 +2,25 @@
 :page-layout: snippet
 
 ++++
+<style>
+table.matrix {
+    border-collapse: separate;
+    border-spacing: 0.1rem;
+    border-radius: 5px;
+    width: 80%
+}
+
+td {
+    font-size: 13px;
+}
+
+h3#_thoughtspot_software_and_cloud_version_matrix {
+    text-align: center;
+}
+</style>
+++++
+
+++++
 <table class="matrix" width="70%" border="1" bordercolor="#4e55fd" style="border-collapse: collapse; border-radius: 5px" align="center" font-family="Optimo-Plain,sans-serif;">
   <tbody>
     <tr>
