@@ -103,4 +103,6 @@ h4#_p {
  </div>
 ++++
 
+== ThoughtSpot Software and Cloud version matrix
+
 include::product-matrix.adoc[]
