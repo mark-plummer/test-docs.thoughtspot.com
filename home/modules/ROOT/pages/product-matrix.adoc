@@ -17,11 +17,12 @@ td {
 h3#_thoughtspot_software_and_cloud_version_matrix {
     text-align: center;
 }
+
 </style>
 ++++
 
 ++++
-<table class="matrix" width="70%" border="1" bordercolor="#4e55fd" style="border-collapse: collapse; border-radius: 5px" align="center" font-family="Optimo-Plain,sans-serif;">
+<table class="matrix" width="70%" border="1" bordercolor="#4e55fd" align="center" font-family="Optimo-Plain,sans-serif;">
   <tbody>
     <tr>
       <th scope="col" width="44%" style="color:black;padding:10px;"></th>
