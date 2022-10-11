@@ -63,6 +63,10 @@ h4#_p {
     padding-right: 25px;
 }
 
+.home h3 {
+    text-align: center !important;
+}
+
 </style>
 ++++
 
