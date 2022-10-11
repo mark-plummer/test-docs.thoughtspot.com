@@ -39,7 +39,7 @@ td {
     <tr>
       <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Cluster scale&nbsp;</th>
       <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Multi-node clusters</td>
-      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Single-node clusters+</td>
+      <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Single-node clusters#</td>
     </tr>
     <tr>
       <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Embrace CDW Connections</th>
@@ -94,7 +94,7 @@ td {
     </tr>
     <tr>
       <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">TSE (embedded)&nbsp;</th>
-      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No++</td>
+      <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No##</td>
       <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
     </tr>
     <tr>
@@ -102,11 +102,28 @@ td {
       <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
       <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
     </tr>
+<tr>
+<td colspan="3"># multi node cluster support in TS cloud coming in roadmap 1H CY23</td>
+    </tr>
+<tr>
+<td colspan="3">* Data Workspace GA in Cloud. Coming soon in SW</td>
+    </tr>
+<tr>
+<td colspan="3">** SpotApps need to manually installed for SW</td>
+    </tr>
+<tr>
+<td colspan="3">## TSE is only available as a TS Cloud offering.. Can be approved for SW as exception</td>
+    </tr>
   </tbody>
 </table>
 <br>
 <br>
 ++++
+
+[width="80%",valign="center"]
+|===
+| #multi node cluster support in TS cloud coming in roadmap 1H CY23
+|===
 
 
 
