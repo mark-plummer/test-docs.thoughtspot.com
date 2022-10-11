@@ -120,10 +120,6 @@ td {
 <br>
 ++++
 
-[width="80%",valign="center"]
-|===
-| #multi node cluster support in TS cloud coming in roadmap 1H CY23
-|===
 
 
 
