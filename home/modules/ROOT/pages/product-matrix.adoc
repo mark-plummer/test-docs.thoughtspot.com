@@ -7,7 +7,7 @@ table.matrix {
     border-collapse: separate;
     border-spacing: 0.1rem;
     border-radius: 5px;
-    width: 80%
+    width: 80%;
     -webkit-box-shadow: 0 8px 25px rgb(0 0 0 / 20%);
 }
 
