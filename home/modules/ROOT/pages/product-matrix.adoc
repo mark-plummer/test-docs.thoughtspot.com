@@ -14,13 +14,6 @@ td {
     font-size: 13px;
 }
 
-h3#_thoughtspot_software_and_cloud_version_matrix {
-    text-align: center;
-
-.home h3 {
-    text-align: center !important;
-}
-
 </style>
 ++++
 
