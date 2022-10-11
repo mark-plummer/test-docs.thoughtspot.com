@@ -67,6 +67,12 @@ h4#_p {
     text-align: center !important;
 }
 
+@media only screen and (min-width: 1216px)
+.box-button-columns .box-button:first-child {
+    margin-left: 20px  !important;
+}
+
+
 </style>
 ++++
 
@@ -107,6 +113,6 @@ h4#_p {
  </div>
 ++++
 
-=== ThoughtSpot Software and Cloud features comparison
+=== Compare Software and Cloud features
 
 include::product-matrix.adoc[]
