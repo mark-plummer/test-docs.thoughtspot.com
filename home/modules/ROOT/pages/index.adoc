@@ -106,7 +106,7 @@ td {
     </h2>
     <p>Build interactive data apps with a low-code developer-friendly platform.</p></span>
     </a></div>
-  <div class="box-button"><a href="https://docs-test-thoughtspot-netlify.app/seekwell/" class="panel-2">
+  <div class="box-button"><a href="https://docs-test-thoughtspot.netlify.app/seekwell/" class="panel-2">
       <span><img src="_images/just-logo-black-40px.png" id="developer-icon">
     <h2>
       SeekWell
