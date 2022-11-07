@@ -16,7 +16,7 @@ content:
     start_path: cloud/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     branches: ['seekwell']
-    start_path: seekwell/    
+    start_path: seekwell/
   - url: git@github.com:thoughtspot/visual-embed-sdk.git
     branches: ['7.1.1-sw-docs', '7.2-sw-docs']
     start_path: docs/software
@@ -39,6 +39,7 @@ asciidoc:
     #cloud: false
     page-company: ThoughtSpot
     tabs: tabs
+    seekwell: SeekWell
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
   extensions:
   - ./lib/asciidoctor-performance-patch.js
