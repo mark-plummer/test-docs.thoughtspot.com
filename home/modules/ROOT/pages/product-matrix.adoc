@@ -111,9 +111,6 @@ td {
 <tr>
 <td colspan="3">** SpotApps must be manually installed in Software.</td>
     </tr>
-<tr>
-<td colspan="3">## ThoughtSpot Everywhere is only available for Cloud. It can be approved for Software as an exception.</td>
-    </tr>
   </tbody>
 </table>
 <br>
