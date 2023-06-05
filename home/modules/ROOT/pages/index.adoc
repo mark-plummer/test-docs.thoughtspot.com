@@ -114,8 +114,17 @@ td {
     <p>Sync your data warehouse with all your favorite business apps and automate your customer data workflows faster than ever.</p></span>
     </a></div>
  </div>
+ <br>
+<div class="is-this-helpful-box"><a class="btn btn-outline-primary btn-sm" href="#modal-1" role="button" data-modal-open>Compare ThoughtSpot Cloud and Software features</a></div>
+      <div id="modal-1" style="display:none">
+      ++++
+      include::product-matrix.adoc[]
+      ++++
+          </div>
+      <div class="modal">
+        <div class="modal-inner">
+          <a data-modal-close>&times;</a>
+          <div class="modal-content"></div>
+        </div>
+      </div>
 ++++
-
-=== Compare Software and Cloud features
-
-include::product-matrix.adoc[]
