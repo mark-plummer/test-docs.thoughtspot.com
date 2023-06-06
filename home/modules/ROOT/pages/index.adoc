@@ -123,7 +123,7 @@ td {
  </div>
  <br>
  <div class="box-button-columns">
-   <div class="is-this-helpful-box"><a class="btn btn-outline-primary btn-sm" href="#modal-1" role="button" data-modal-open>Compare ThoughtSpot Cloud and Software features</a></div>
+   <a class="btn btn-outline-primary btn-sm" href="#modal-1" role="button" data-modal-open>Compare ThoughtSpot Cloud and Software features</a></div>
      </div>
 
       <div id="modal-1" style="display:none">
