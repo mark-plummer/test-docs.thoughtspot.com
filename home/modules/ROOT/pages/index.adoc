@@ -155,7 +155,7 @@ td {
       }
 
       </style>
-      <table class="matrix" width="70%" border="0" align="center" font-family="Optimo-Plain,sans-serif;">
+      <table class="matrix" width="70%" border="1" bordercolor="#4e55fd" align="center" font-family="Optimo-Plain,sans-serif;">
         <tbody>
           <tr>
             <th scope="col" width="44%" style="color:black;padding:10px;"></th>
@@ -175,7 +175,7 @@ td {
           <tr>
             <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Cluster scale&nbsp;</th>
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Multi-node clusters</td>
-            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Single-node clusters#</td>
+            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Single node or 3 node for HA</td>
           </tr>
           <tr>
             <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Connect to cloud data warehouses</th>
@@ -194,7 +194,7 @@ td {
           </tr>
           <tr>
             <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Visualize <br>
-      		  (answers, Liveboards, follow and related features)</th>
+      		  (Answers, Liveboards, follow and related features)</th>
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
@@ -210,7 +210,7 @@ td {
           </tr>
           <tr>
             <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">SpotApps</th>
-            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes**</td>
+            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes*</td>
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
           <tr>
@@ -219,33 +219,35 @@ td {
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
           <tr>
-            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Monitor</th>
-            <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
-            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
-          </tr>
-          <tr>
-            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Eureka (search answers)</th>
-            <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
-            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
-          </tr>
-          <tr>
             <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">ThoughtSpot Everywhere (embedded)&nbsp;</th>
-            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes**</td>
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
           <tr>
-            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">ThoughtSpot Sync (Seekwell Destinations)&nbsp;</th>
+            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Monitor, anomaly detection, contextual explain change</th>
             <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
             <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
-      <tr>
-      <td colspan="3"># Multi-node cluster support in Cloud coming in roadmap 1H CY23.</td>
+          <tr>
+            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">ThoughtSpot Sage: AI/GPT assisted features</th>
+            <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
-      <tr>
-      <td colspan="3">* Data workspace is GA in Cloud. Coming soon in Software.</td>
+          <tr>
+            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Eureka (search Answers)</th>
+            <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
           </tr>
+          <tr>
+            <th scope="row" align="right" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">ThoughtSpot Sync (SeekWell Destinations)&nbsp;</th>
+            <td bgcolor="#e0b5b3" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">No</td>
+            <td bgcolor="#d4e5d5" style="color:black;padding:10px;font-family:Optimo-Plain,sans-serif;">Yes</td>
+          </tr>
+          <tr>
+          <td colspan="3">* SpotApps must be manually installed in Software.</td>
+              </tr>
       <tr>
-      <td colspan="3">** SpotApps must be manually installed in Software.</td>
+      <td colspan="3">** Available as an option for Software starting with the 8.4.x.sw release.</td>
           </tr>
         </tbody>
       </table>
