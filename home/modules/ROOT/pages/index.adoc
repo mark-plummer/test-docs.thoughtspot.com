@@ -155,7 +155,7 @@ td {
       }
 
       </style>
-      <table class="matrix" width="70%" border="1" bordercolor="#4e55fd" align="center" font-family="Optimo-Plain,sans-serif;">
+      <table class="matrix" width="70%" border="0" bordercolor="#4e55fd" align="center" font-family="Optimo-Plain,sans-serif;">
         <tbody>
           <tr>
             <th scope="col" width="44%" style="color:black;padding:10px;"></th>
