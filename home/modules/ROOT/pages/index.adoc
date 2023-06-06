@@ -85,7 +85,7 @@ td {
 }
 
 .btn-outline-primary {
-    transition: 0.0s !important;
+    transition: 0.3s background ease-in-out !important;
     animation: fadein linear 0s !important;
     -webkit-animation: fadein 0s linear !important;
     -moz-animation: fadein linear 0s !important;
