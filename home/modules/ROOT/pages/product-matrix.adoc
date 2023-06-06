@@ -1,4 +1,5 @@
-== {empty}
+[.conceal-title]
+= {empty}
 :page-layout: snippet
 
 ++++
