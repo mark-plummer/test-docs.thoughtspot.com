@@ -123,15 +123,9 @@ td {
  </div>
  <br>
  <div class="box-button-columns">
-   <div class="box-button"><a href="#modal-1" role="button" data-modal-open class="panel-2">
-       <span><img src="_images/cloud.png" id="cloud-icon">
-     <h2>
-       Compare
-     </h2>
-     <p>Compare ThoughtSpot Cloud and Software features.</p></span>
-     </a></div>
+   <div class="is-this-helpful-box"><a class="btn btn-outline-primary btn-sm" href="#modal-1" role="button" data-modal-open>Compare ThoughtSpot Cloud and Software features</a></div>
      </div>
-<div class="is-this-helpful-box"><a class="btn btn-outline-primary btn-sm" href="#modal-1" role="button" data-modal-open>Compare ThoughtSpot Cloud and Software features</a></div>
+
       <div id="modal-1" style="display:none">
       <style>
       table.matrix {
