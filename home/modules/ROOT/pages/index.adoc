@@ -84,6 +84,15 @@ td {
     max-height: 85% !important;
 }
 
+.btn-outline-primary {
+    transition: 0.0s !important;
+    animation: fadein linear 0s !important;
+    -webkit-animation: fadein 0s linear !important;
+    -moz-animation: fadein linear 0s !important;
+    -o-animation: fadein linear 0s !important;
+    -ms-animation: fadein linear 0s !important;
+}
+
 .button-box {
     display: inline-block;
     margin: 0 auto !important;
