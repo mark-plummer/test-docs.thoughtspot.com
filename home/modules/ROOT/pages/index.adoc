@@ -121,9 +121,9 @@ td {
       table.matrix {
           border-collapse: separate;
           border-spacing: 0.1rem;
-          border-radius: 5px;
-          width: 80%;
-          -webkit-box-shadow: 0 8px 25px rgb(0 0 0 / 20%);
+          /* border-radius: 5px; */
+          width: 94%;
+          /* -webkit-box-shadow: 0 8px 25px rgb(0 0 0 / 20%); */
       }
 
       td {
@@ -131,7 +131,7 @@ td {
       }
 
       </style>
-      <table class="matrix" width="70%" border="1" bordercolor="#4e55fd" align="center" font-family="Optimo-Plain,sans-serif;">
+      <table class="matrix" width="70%" border="0" align="center" font-family="Optimo-Plain,sans-serif;">
         <tbody>
           <tr>
             <th scope="col" width="44%" style="color:black;padding:10px;"></th>
