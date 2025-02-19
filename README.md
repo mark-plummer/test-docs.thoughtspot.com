@@ -1,2 +1,1 @@
-# test-docs.thoughtspot.com
-internal testing playbook site for new docs site.
+# 9-9-0-cl
